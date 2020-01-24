@@ -1,5 +1,5 @@
 spring:
   application:
-    name: Service 1
+    name: Service 1 Edited
   profiles:
     active: dev,mysql
