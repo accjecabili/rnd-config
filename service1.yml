@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Service 1
+  profiles:
+    active: dev,mysql
