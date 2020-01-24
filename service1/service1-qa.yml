@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Service 1 QA
+  profiles:
+    active: qa
+service:
+  id: 12345

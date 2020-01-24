@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Service 1 dev
+  profiles:
+    active: dev
+service:
+  id: 12345
