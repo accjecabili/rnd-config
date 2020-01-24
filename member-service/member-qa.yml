@@ -1,7 +1,2 @@
-spring:
-  application:
-    name: member
-  profiles:
-    active: qa
 service:
   description: qa configuration
