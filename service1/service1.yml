@@ -1,7 +1,7 @@
 spring:
   application:
-    name: Service 1 Edited
+    name: service1
   profiles:
-    active: dev,mysql
+    active: default
 service:
-  id: 12345
+  description: default configuration

@@ -1,7 +1,7 @@
 spring:
   application:
-    name: Service 1 dev
+    name: service1
   profiles:
     active: dev
 service:
-  id: 12345
+  description: dev configuration

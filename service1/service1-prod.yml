@@ -1,7 +1,7 @@
 spring:
   application:
-    name: Service 1 production
+    name: service1
   profiles:
     active: prod
 service:
-  id: 12345
+  description: prod configuration

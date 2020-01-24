@@ -1,7 +1,7 @@
 spring:
   application:
-    name: Service 1 QA
+    name: service1
   profiles:
     active: qa
 service:
-  id: 12345
+  description: qa configuration
