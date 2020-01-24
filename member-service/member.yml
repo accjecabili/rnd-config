@@ -1,2 +1,5 @@
 service:
   description: default configuration
+spring: 
+  application:
+    name: member
