@@ -3,3 +3,5 @@ spring:
     name: Service 1 Edited
   profiles:
     active: dev,mysql
+service:
+  id: 12345
