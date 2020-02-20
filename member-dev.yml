@@ -1,2 +1,4 @@
 Value1: some-val
 Value2: another-val
+Value3:
+  child: I am child
