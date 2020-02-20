@@ -2,3 +2,13 @@ Value1: some-val
 Value2: another-val
 Value3:
   child: I am child and updated
+eureka: 
+  client: 
+    serviceUrl: http://localhost:8761/eureka
+    shouldFetchRegistry: true
+    shouldRegisterWithEureka: true
+    validateCertificates: false
+  instance: 
+    port: 8080
+    ipAddress: 192.168.112.140
+    preferIpAddress: true
